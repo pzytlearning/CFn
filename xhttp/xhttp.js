@@ -3,7 +3,7 @@
 import { connect } from 'cloudflare:sockets'
 
 const proxyIP = '13.230.34.30';  // proxyIP 用于访问cf cdn网站，例如chatgpt
-const yourUUID = '5dc15e15-f285-4a9d-959b-0e4fbdd77b63'; // UUID
+const yourUUID = '778642D0-2677-4FA2-883C-E7EBC6222692'; // UUID
 
 let cfip = [ 
     'mfa.gov.ua', 'saas.sin.fan', 'store.ubi.com','cf.130519.xyz','cf.008500.xyz', 
